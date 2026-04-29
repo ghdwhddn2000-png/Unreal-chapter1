@@ -26,6 +26,8 @@ void AMyActor::BeginPlay()
 	
 }
 
+
+
 void AMyActor::Move()
 {
 	FVector Target;
